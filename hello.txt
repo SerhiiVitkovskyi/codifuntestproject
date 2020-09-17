@@ -2,3 +2,4 @@ Hello, Git!
 Second string.
 Third string.
 Fourth string was added on-line.
+5th string.
