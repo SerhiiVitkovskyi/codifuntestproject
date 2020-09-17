@@ -1,0 +1,3 @@
+Hello, Git!
+Second string.
+Third string.
